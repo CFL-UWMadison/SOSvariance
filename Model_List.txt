@@ -1,0 +1,9 @@
+Models included in this archive:
+
+Lake eutrophication model: spectra and proportion of time in oligotrophic state
+
+Harvest model, noise management: spectra and time to crash
+
+Harvest model, harvest management: spectra and time to crash
+
+Rangeland model: spectra and mean grass biomass
